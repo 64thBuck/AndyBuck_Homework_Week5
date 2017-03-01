@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_14c45410733885905c7646c3a97fb69bf70ccbbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beace9af2ab4cda43566479544ea5088122051c3">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2812c31c3c2f1b234c3252aab645127881ae5216/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_3dce65dcceeec3b90da6f8d2f53e06faa7819a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_dddc6d7bfa71d81831be0c5a25dec1085f95ba8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_0f20fd66912dd187a63859f4e34123ba8172d376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_99da01b6c6350bc89fdb4a8b5d0aa8368e9aba63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_efb37a2e3a4fbf97fa5917bf61b55a7de5ef9140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_910437014f2da197c07b8ddfe7f020406a0248a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_9b3690df3a00316c7d4473cf39b722f610f87d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be4c981625e5e2cc39406c9c967da94bf4f6cbe7">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af90658c42f0cfb21f6cb365e8e76bf94cc19bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_863eced182087ab21fcf72fa5eac35f3a819d6fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_ccdebdfab170066de9a28beb97bb2eda9193b1f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_5a92781c40bf153471f49882c7b89c0570809aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f281653efdb2f21fefac868143438f864bbae046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/andybuck/Documents/Performance Techonology/AndyBuck_Lab05_Homework/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5228611cf77e6ab2e5f5fd91520703afab179aed/classes.dex" />
+    </item>
+
+</items>
